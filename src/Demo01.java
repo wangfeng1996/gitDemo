@@ -8,5 +8,6 @@ public class Demo01 {
         System.out.println("hai，你是谁");
 
         System.out.println("合并");
+        System.out.println("合并1122");
     }
 }
