@@ -6,5 +6,7 @@ public class Demo01 {
     public static void main(String[] args) {
         System.out.println("hello World");
         System.out.println("hai，你是谁");
+
+        System.out.println("合并");
     }
 }
